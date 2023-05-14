@@ -12,6 +12,9 @@ What I intend to cover here:
 
 3. Machine Learning Algorithms for Dynamic Pricing
    * Covers the various machine learning algorithms that are used in dynamic pricing software.
+     * [AI and Dynamic Pricing](machine_learning/ai_and_dynamic_pricing.md)
+     * [Machine Learning Algorithms for Dynamic Pricing - 1](machine_learning/ml_algorithms1.md)
+     * [Machine Learning Algorithms for Dynamic Pricing - 2](machine_learning/ml_algorithms2.md)
 
 4. Factors that Influence Dynamic Pricing
    * covers the various factors that influence dynamic pricing, such as customer behavior, competitor pricing, and market demand.
@@ -27,6 +30,7 @@ What I intend to cover here:
 
 8. [Dynamic Pricing Software](dynamic_pricing_software.md)
    * List of the 10 most popular dynamic pricing software solutions based on the latest Google data and user reviews. These tools analyze historical numbers, industry trends, and even competitor data to help businesses set optimal prices.
+   * [Dynamic Pricing solutions for different industries and market segments](dynamic_pricing_industries.md)
 
 9. [Controversy](dynamic_pricing_controversy.md)
    * Discusses the controversy surrounding dynamic pricing and how it is likely to evolve in the coming years.
